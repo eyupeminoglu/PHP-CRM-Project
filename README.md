@@ -1,5 +1,5 @@
 # PHP-CRM-Project
-A CRM project for mehmetakifbirkan.com using PHP
+CRM project for mehmetakifbirkan.com using PHP
 
 # Admin Panel-
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/be6f3c05-9a15-4f01-a015-dafd066e0e0b)
