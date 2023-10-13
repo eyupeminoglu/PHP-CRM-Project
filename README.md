@@ -1,7 +1,7 @@
 # PHP-CRM-Project
 A CRM project for mehmetakifbirkan.com using PHP
 
--Admin Panel-
+# Admin Panel-
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/be6f3c05-9a15-4f01-a015-dafd066e0e0b)
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/bcdf351e-7b10-42ad-8fa1-907798e86751)
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/3c749b52-5551-4999-8b10-3af7bf2f7a66)
@@ -14,7 +14,7 @@ A CRM project for mehmetakifbirkan.com using PHP
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/97064634-79a2-4d3b-8577-9f2f9c414e96)
 
 
--User Panel-
+# User Panel-
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/14dabb26-f202-4519-a855-adb92d7833fd)
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/4c866571-fd8f-4f57-adef-981afe6033a1)
 ![image](https://github.com/eyupeminoglu/PHP-CRM-Project/assets/63679520/4f10e4e2-645e-47b3-9efc-ab39f765fc77)
